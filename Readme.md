@@ -37,10 +37,12 @@ The dataset used for this project contains labeled retinal images for diabetic r
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SubhangiSati/Enhanced-Diagnosis-of-Diabetic-Retinopathy-Utilizing-Convolutional-Neural-Networks ```
+   git clone https://github.com/SubhangiSati/Enhanced-Diagnosis-of-Diabetic-Retinopathy-Utilizing-Convolutional-Neural-Networks
+   ```
 2. Install dependencies:
    ```bash
-	pip install -r requirements.txt ```
+	pip install -r requirements.txt
+   ```
 3. Run the notebooks: Open the respective notebooks to preprocess data, train models, and evaluate their performance.
 ##Model Evaluation
 
